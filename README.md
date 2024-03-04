@@ -51,4 +51,4 @@ Company site : [website](https://www.skillvertex.com/about-us/)
 - Created data visualization dashboards using Plotly for effective communication of findings.
 - Collaborated with team members to solve real-world data challenges and contribute to business decision-making processes.
   
-# This portfolio highlights my contributions and achievements during my internship at Skill Vertex, showcasing my abilities in data science and my commitment to continuous learning and professional growth.
+### This portfolio highlights my contributions and achievements during my internship at Skill Vertex, showcasing my abilities in data science and my commitment to continuous learning and professional growth.
