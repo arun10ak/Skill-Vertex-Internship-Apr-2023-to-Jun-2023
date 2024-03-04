@@ -28,7 +28,7 @@ Company site : [website](https://www.skillvertex.com/about-us/)
   
 **Skills Utilized**: Machine Learning, Model Evaluation, Data visualization, Deployment
   
-### Project 2: Detection  Modeling
+## Project 2: Detection  Modeling
 ---
 
 ### Objective: To develop a Detective model for *Fake Currency Detection*.
