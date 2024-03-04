@@ -26,7 +26,7 @@ Company site : [website](https://www.skillvertex.com/about-us/)
 - Created data visualization to find how the data is distributed.
 - Deployed the best-performing model in a production environment for real-time predictions.
   
-**Skills Utilized**: Machine Learning, Model Evaluation, Data visualization, Deployment
+**Skills Utilized**: Machine Learning, Label Encoding Model Evaluation, Data visualization, Deployment
   
 ## Project 2: Detection  Modeling
 ---
