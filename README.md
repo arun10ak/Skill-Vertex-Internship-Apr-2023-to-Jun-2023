@@ -14,10 +14,10 @@ SkillVertex is a leading EdTech organization dedicated to empowering students an
 
 Company site : [website](https://www.skillvertex.com/about-us/)
 
-## Project 1: Predictive Modeling
+## Project 1: Predictive Modeling: 
 ---
 
-### Objective: To develop a predictive model for *Loan approval prediction*.
+### Objective: To develop a predictive model for *[Loan approval prediction]*(https://github.com/arun10ak/Skill-Vertex-Internship-Apr-2023-to-Jun-2023/tree/main/Loan%20Prediction).
 
 - Preprocessed and cleaned the dataset, handling missing values and outliers.
 - Applied machine learning algorithms including Logistic Regression.
