@@ -31,7 +31,7 @@ Company site : [website](https://www.skillvertex.com/about-us/)
 ## Project 2: Detection  Modeling
 ---
 
-### Objective: To develop a Detective model for *Fake Currency Detection*.
+### Objective: To develop a Detective model for [Fake Currency Detection](https://github.com/arun10ak/Skill-Vertex-Internship-Apr-2023-to-Jun-2023/tree/main/Fake%20Currency%20Detection).
 
 - Preprocessed and cleaned the dataset, handling missing values and outliers.
 - Applied machine learning algorithms including Logistic Regression, Decision Tree, and XGBoost.
