@@ -12,7 +12,7 @@
 ---
 SkillVertex is a leading EdTech organization dedicated to empowering students and working professionals with the knowledge and skills needed to succeed in today's rapidly evolving job market. Our mission is to provide upskilling and training programs tailored to the individual needs and future aspirations of our learners, enabling them to stay competitive and advance in their careers.
 
-Company site : [website](https://www.skillvertex.com/about-us/)
+Company site : [Website](https://www.skillvertex.com/about-us/)
 
 ## Project 1: Predictive Modeling: 
 ---
@@ -50,5 +50,6 @@ Company site : [website](https://www.skillvertex.com/about-us/)
 - Developed skills in machine learning, including model building, evaluation, and deployment.
 - Created data visualization dashboards using Plotly for effective communication of findings.
 - Collaborated with team members to solve real-world data challenges and contribute to business decision-making processes.
+   Completion Certificate : [Link](https://github.com/arun10ak/Skill-Vertex-Internship-Apr-2023-to-Jun-2023/tree/main/Intern%20certificate)
   
 ### This portfolio highlights my contributions and achievements during my internship at Skill Vertex, showcasing my abilities in data science and my commitment to continuous learning and professional growth.
